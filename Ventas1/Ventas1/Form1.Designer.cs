@@ -1,4 +1,4 @@
-﻿namespace Ventas
+﻿namespace Ventas1
 {
     partial class Form1
     {
@@ -28,34 +28,34 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.button1 = new System.Windows.Forms.Button();
+            this.Procesar = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
-            // button1
+            // Procesar
             // 
-            this.button1.Location = new System.Drawing.Point(88, 122);
-            this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(136, 56);
-            this.button1.TabIndex = 0;
-            this.button1.Text = "Procesar";
-            this.button1.UseVisualStyleBackColor = true;
-            this.button1.Click += new System.EventHandler(this.button1_Click);
+            this.Procesar.Location = new System.Drawing.Point(85, 130);
+            this.Procesar.Name = "Procesar";
+            this.Procesar.Size = new System.Drawing.Size(118, 51);
+            this.Procesar.TabIndex = 0;
+            this.Procesar.Text = "Procesar";
+            this.Procesar.UseVisualStyleBackColor = true;
+            this.Procesar.Click += new System.EventHandler(this.button1_Click);
             // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(282, 253);
-            this.Controls.Add(this.button1);
+            this.Controls.Add(this.Procesar);
             this.Name = "Form1";
-            this.Text = "Form1";
+            this.Text = "Procesar";
             this.ResumeLayout(false);
 
         }
 
         #endregion
 
-        private System.Windows.Forms.Button button1;
+        private System.Windows.Forms.Button Procesar;
     }
 }
 

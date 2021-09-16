@@ -4,11 +4,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{E34935B5-29B4-4FB1-8ADC-B73DA4A7BA59}</ProjectGuid>
+    <ProjectGuid>{074F985F-2C5D-4ADF-8B6F-18CFFAA8BDC0}</ProjectGuid>
     <OutputType>WinExe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>Ventas</RootNamespace>
-    <AssemblyName>Ventas</AssemblyName>
+    <RootNamespace>Ventas1</RootNamespace>
+    <AssemblyName>Ventas1</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
