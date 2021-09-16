@@ -19,7 +19,7 @@ namespace Ventas1
 
         private void button1_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("Hola Mundo");
+            MessageBox.Show("El futuro pertenece a los que nunca dejan de soñar");
         }
     }
 }
